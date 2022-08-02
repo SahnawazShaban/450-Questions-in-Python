@@ -12,6 +12,8 @@ kth = int(input("Enter Kth value : "))
 minMax(mini, n, kth)
 
 
+EXTRA :
+
 Difference between sort() vs sorted().
 EXAMPLE : 
 nums = [2, 3, 1, 5, 6, 4, 0]
